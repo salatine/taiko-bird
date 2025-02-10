@@ -108,7 +108,7 @@ jobs:
         with:
           name: ${{ env.CORE_LOVE_ARTIFACT_NAME }}
       - name: Build Android packages
-        uses: aureki/love-actions-android@v1
+        uses: love-actions/love-actions-android@v1
         with:
           app-name: ${{ env.PRODUCT_NAME }}
           bundle-id: ${{ env.BUNDLE_ID }}
