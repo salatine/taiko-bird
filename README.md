@@ -17,4 +17,3 @@ game features:
 
 - Android: [Play Store](https://play.google.com/store/apps/details?id=org.salatinee.taikobird)  |  [GitHub Releases](https://github.com/aureki/taiko-bird/releases)
 - Desktop (Linux / Windows / .love file): [GitHub Releases](https://github.com/aureki/taiko-bird/releases)
-- 
