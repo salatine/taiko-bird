@@ -117,7 +117,7 @@ jobs:
           keystore-base64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
           keystore-key-password: ${{ secrets.ANDROID_KEYSTORE_KEYPASSWORD }}
           keystore-store-password: ${{ secrets.ANDROID_KEYSTORE_STOREPASSWORD }}
-          love-ref: android_ext
+          love-ref: "11.4"
           love-package: ${{ env.CORE_LOVE_PACKAGE_PATH }}
           resource-path: ./release/android/res
           extra-assets: ./LICENSE
